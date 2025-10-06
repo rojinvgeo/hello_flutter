@@ -15,7 +15,7 @@ This is a standard Flutter project requiring the Flutter SDK.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPO_URL]
+    git clone [https://github.com/rojinvgeo/hello_flutter]
     cd hello_flutter
     ```
 2.  **Run on Device:**
