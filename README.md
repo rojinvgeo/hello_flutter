@@ -1,16 +1,27 @@
-# hello_flutter
+# 🚀 Hello Flutter App - The 30-Day Challenge
 
-A new Flutter project.
+This is the code repository for my 30-day self-guided curriculum to master Android development with the Flutter framework.
 
-## Getting Started
+## 📅 Current Progress Tracker
 
-This project is a starting point for a Flutter application.
+| Day | Topic | Status |
+| :---: | :--- | :--- |
+| **1** | Environment Setup + Hello Flutter | **COMPLETE** |
+| **2** | Dart Basics (Syntax, Functions, Control Flow) | **IN PROGRESS** |
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ How to Run This Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This is a standard Flutter project requiring the Flutter SDK.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.  **Clone the Repository:**
+    ```bash
+    git clone [YOUR_REPO_URL]
+    cd hello_flutter
+    ```
+2.  **Run on Device:**
+    ```bash
+    flutter run
+    ```
+***
+
+## ➡️ Next Step: Focus on DartPad
